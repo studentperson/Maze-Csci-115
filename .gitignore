@@ -31,5 +31,5 @@
 *.out
 *.app
 
-.cbp
-.depend
+*.layout
+*.depend
